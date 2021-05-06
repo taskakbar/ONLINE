@@ -10,7 +10,7 @@ dbus-python==1.2.12
 entrypoints==0.3
 enum34==1.1.6
 Flask==1.0.2
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 idna==2.6
 ipaddress==1.0.17
 itsdangerous==0.24
